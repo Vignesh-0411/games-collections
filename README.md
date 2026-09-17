@@ -29,7 +29,7 @@ Games-Collection/
 ├── Index.html
 ├── Style.css
 ├── Images/
-│   ├── cover.jpg
+│   ├── Cover.jpg
 └── README.md
 ```
 
